@@ -63,7 +63,7 @@ $ sudo python3 setup.py bdist_wheel
 - **[Verification of mediapipe's GPU-enabled .pbtxt processing method](https://zenn.dev/pinto0309/scraps/71368ef3d74438)**
 
 ### 4-3. opencv_contrib_python-4.5.* 
-- **[Build the Wheel installer for opencv-contrib-python](https://zenn.dev/pinto0309/scraps/e10bc3a8be82f1)**
+- **[Build the Wheel installer for opencv-contrib-python](https://qengineering.eu/install-opencv-4.5-on-jetson-nano.html)**
 
 
 ## 5. Reference
